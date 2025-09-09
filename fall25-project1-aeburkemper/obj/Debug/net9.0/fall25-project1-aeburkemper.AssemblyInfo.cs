@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fall25-project1-aeburkemper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f054d3eaaea33f2b8df82f4bfc7e9020fe5269e")]
 [assembly: System.Reflection.AssemblyProductAttribute("fall25-project1-aeburkemper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fall25-project1-aeburkemper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

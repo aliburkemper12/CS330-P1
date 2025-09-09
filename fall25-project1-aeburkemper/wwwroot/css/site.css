@@ -19,6 +19,79 @@ html {
 
 body {
   margin-bottom: 60px;
+  background-color: #091221;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  align-content: center;
+  text-align: center;
+}
+
+iframe {
+  width: 80%;
+  height: 500px;
+}
+
+#Title {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#Rating {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+#Summary {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#Actors {
+  color: white;
+  text-align: center;
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 70%;
+  height: auto;
+  border-radius: 60px;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+ul {
+  padding-left: 0;
+  padding-top: 20px;
+}
+
+li {
+  list-style-type: none;
+  margin-bottom: 20px;
+  padding: none;
+}
+
+a {
+  color: #258cfb;
+}
+
+#title-alternate {
+  color: #d11919;
+}
+
+#imdb-link {
+  color: #f5c518;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
